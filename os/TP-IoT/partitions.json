@@ -3,7 +3,7 @@
     {
       "label": "boot",
       "filesystem_type": "FAT",
-      "partition_size_nominal": 60,
+      "partition_size_nominal": 63,
       "want_maximised": false,
       "uncompressed_tarball_size": 21
     },
